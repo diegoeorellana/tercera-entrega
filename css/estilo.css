@@ -64,3 +64,27 @@ footer {
     footer .social-links:hover {
       color: #ffffff;
       border-color: #ffffff; }
+
+.formimagen {
+  justify-content: right;
+  margin: 1rem;
+  padding: 1rem;
+  display: flex;
+  text-align: right;
+  flex-direction: column;
+  max-width: 25rem; }
+
+.formularioTitulo {
+  color: #6c63ff;
+  margin-top: 10px;
+  margin-left: 10px; }
+
+.formulario {
+  display: flex;
+  margin: 1rem;
+  align-content: center; }
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; }
